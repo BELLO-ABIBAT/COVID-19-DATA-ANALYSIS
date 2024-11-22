@@ -22,6 +22,7 @@ Data was collected from the covid’19 site https://ourworldindata.org/covid-dea
 ####  Data Transformation
 After downloading the data set, the dataset was import into power bi using get data.
 
+![]<Document/Datatype4>
 
 After which the dataset went in to the transform stage of the power query editor, I removed columns that are not needed, rename the dataset to COVID’19, changing the datatype, renaming each column to make sure the column header indicates the content of that column and also replacing the null values in each column with 0, Filtered some rows
  
