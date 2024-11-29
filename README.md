@@ -41,7 +41,7 @@ After which a model was created between the tables to show the relationship betw
  <img src="Document/datatype8.png">
 
 A dashboard was then created for visualization of the dataset
- 
+<img src="Document/datatype9.png"> 
 
 
 
