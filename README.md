@@ -4,7 +4,7 @@ A project analyzing the global impact of COVID-19
 
 ##  INTRODUCTION
 Covid’19 caused by the SAR-CoV-2 virus is a global pandemic that as ravaged the world since its emergence in late 2019. The disease infected millions, claiming countless lives and disrupting economies, societies and healthcare system in the world. Covid’19 pandemic has generated an unprecedented amount of data offering insights into the virus spread, severity and societal impacts. analyzing and interpreting this data can reveal trends, patterns and policy response and optimizing resource allocation.
-
+#### Tool Used: PowerBi
 ###  RESEARCH QUESTIONS
 1.	How has number of covid’19 cases changed over the years?
 2.	Which locations have the highest number of covid’19 new cases?
