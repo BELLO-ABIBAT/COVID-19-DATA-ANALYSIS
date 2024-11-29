@@ -26,15 +26,19 @@ After downloading the data set, the dataset was import into power bi using get d
 
 After which the dataset went in to the transform stage of the power query editor, I removed columns that are not needed, rename the dataset to COVID’19, changing the datatype, renaming each column to make sure the column header indicates the content of that column and also replacing the null values in each column with 0, Filtered some rows
  
-<img src="Document/DATATYPE5.png">
+<img src="Document/DATA TYPEE2.png">
 <img src="Document/DATA TYPE.png">
  
 Duplicate the dataset three times, Renamed the 3 duplicated dataset as follows location, date, facts I duplicate the dataset in order to build model and create relationships between them, After creating tables I removed duplicates from each table and disable the covid’19 dataset from loading.
+
+<img src="Document/DATA TYPE3.png">
  
 The clean data was loaded from the power query editor into the field pane of power bi itself after which a calculation was carried out using DAX expression in order to create measures.
+<img src="Document/DATATYPE5.png">
  
 After which a model was created between the tables to show the relationship between the tables
- 
+
+ <img src="Document/datatype8.png">
 
 A dashboard was then created for visualization of the dataset
  
