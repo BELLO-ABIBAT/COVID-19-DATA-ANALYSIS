@@ -34,7 +34,7 @@ Duplicate the dataset three times, Renamed the 3 duplicated dataset as follows l
 <img src="Document/DATA TYPE3.png">
  
 The clean data was loaded from the power query editor into the field pane of power bi itself after which a calculation was carried out using DAX expression in order to create measures.
-<img src="Document/DATATYPE5.png">
+<img src="Document/DATATYPE 5.png">
  
 After which a model was created between the tables to show the relationship between the tables
 
